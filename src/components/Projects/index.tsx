@@ -15,7 +15,7 @@ const Projects = () => {
                 Recent Projects
               </h2>
               <p className="mx-auto mt-4 max-w-[570px] text-base text-[#737373] dark:text-[#A3A3A3]">
-                Discover how we've helped businesses transform their digital
+                Discover how we&apos;ve helped businesses transform their digital
                 presence with innovative solutions
               </p>
             </div>
