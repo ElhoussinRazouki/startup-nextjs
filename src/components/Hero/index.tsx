@@ -12,11 +12,11 @@ const Hero = () => {
             <div className="w-full px-4">
               <div className="mx-auto max-w-[800px] text-center">
                 <h1 className="mb-5 text-3xl font-bold leading-tight text-black dark:text-white sm:text-4xl sm:leading-tight">
-                  Transform Ideas into Digital Reality
+                  Digital Innovation Agency
                 </h1>
                 <p className="mb-12 text-base !leading-relaxed text-body-color dark:text-body-color-dark sm:text-lg md:text-xl">
-                  Expert software development, cloud solutions, and digital transformation services 
-                  that drive business growth. From startups to enterprises, we deliver results that matter.
+                  We specialize in web development, mobile apps, automation solutions, and AI integration. 
+                  Our expert team transforms your ideas into powerful digital experiences that drive growth and innovation.
                 </p>
                 <div className="flex flex-col items-center justify-center space-y-4 sm:flex-row sm:space-x-4 sm:space-y-0">
                   <Link
